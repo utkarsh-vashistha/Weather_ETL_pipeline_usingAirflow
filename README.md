@@ -43,17 +43,25 @@ The workflow is containerized using **Docker**, managed through **Astro CLI**, a
 
 
 1.**Airflow Graph View** - Visualizing task dependencies.
-   <img width="1280" alt="airflow_graph" src="https://github.com/user-attachments/assets/8baf8a60-22b2-40be-9bc4-56ae26ef773a" />
+
+<img width="1276" alt="airflow_graph" src="https://github.com/user-attachments/assets/c0393120-55c4-4245-96a6-67c32da3b593" />
+
 
 2. **DBeaver** - Verifying stored weather data.
-   <img width="1280" alt="Dbeaver" src="https://github.com/user-attachments/assets/3438b919-4948-4e34-ba14-6db4afab8650" />
+   
+<img width="1275" alt="Dbeaver" src="https://github.com/user-attachments/assets/f1e08014-a534-4956-836a-c0b97bf6a36a" />
+
 
 3. **Airflow DAG Execution** - Successfully running DAG.
-<img width="1280" alt="Airflow_run" src="https://github.com/user-attachments/assets/1ae259a1-2973-48a6-aed8-ae26139897bb" />
+   
+<img width="1275" alt="Airflow_run" src="https://github.com/user-attachments/assets/24b62a98-48f0-4262-bcc7-2de44926e963" />
+
 
 
 4. **Docker Containers** - Running Astro Airflow components.
-   <img width="1280" alt="Docker_container" src="https://github.com/user-attachments/assets/62f79e87-726f-47a7-bde3-a44d517d53d0" />
+   
+ <img width="1274" alt="Docker_container" src="https://github.com/user-attachments/assets/6fd4cac7-5682-4d12-85f4-b161f32cc0f2" />
+
 
 
 
